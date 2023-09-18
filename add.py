@@ -1,4 +1,4 @@
 a = 2000
 b = 30
 c= a + b
-print(c + 15)
+print(c + b + 15)
